@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://icpp5ymm8b60"]
+
+[ext_resource type="Script" path="res://Game.cs" id="1_etikv"]
+
+[node name="Game" type="Sprite2D"]
+script = ExtResource("1_etikv")
